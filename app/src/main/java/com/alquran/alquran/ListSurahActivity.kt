@@ -24,7 +24,7 @@ import com.androidnetworking.interfaces.JSONArrayRequestListener
 import com.example.alquran.R
 import com.google.android.gms.location.*
 import com.alquran.Adapter.SurahAdapter
-import com.alquran.DetailSurahActivity
+import com.alquran.fragment.DetailSurahActivity
 import com.alquran.fragment.FragmentJadwalSholat.Companion.newInstance
 import com.alquran.model.ModelSurah
 import com.alquran.networking.Api

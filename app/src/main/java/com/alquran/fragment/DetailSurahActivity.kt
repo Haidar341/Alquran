@@ -1,4 +1,4 @@
-package com.alquran
+package com.alquran.fragment
 
 import android.annotation.SuppressLint
 import android.app.ProgressDialog

@@ -16,7 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name="com.alquran.alquran.MasjidActivity"></activity>
-        <activity android:name="com.alquran.DetailSurahActivity"/>
+        <activity android:name="com.alquran.fragment.DetailSurahActivity"/>
         <activity android:name="com.alquran.alquran.ListSurahActivity" >
 
             <intent-filter>
